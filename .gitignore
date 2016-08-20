@@ -1,0 +1,15 @@
+*.pyc
+*.bak
+*.log
+/manage.dev.py
+/static
+/media
+/database.sqlite
+/db.sqlite3
+/.project
+/.pydevproject
+/tmp
+/.settings
+/manage*dev.py
+/bower_components
+/node_modules

@@ -1,0 +1,5 @@
+# launch flower for monitor
+flower -A celerydemo 
+
+# init the databases
+python manage.py migrate

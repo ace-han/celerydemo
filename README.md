@@ -1,0 +1,2 @@
+Celery Demo with django
+=======
